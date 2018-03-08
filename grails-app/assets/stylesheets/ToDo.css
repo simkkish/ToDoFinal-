@@ -1,0 +1,15 @@
+.top{
+    margin-top: 10px;
+    height: 90px;
+    font-size: 35px;
+    font-family: "28 Days Later";
+    alignment: center;
+    vertical-align: center;
+    horiz-align: center;
+    text-align: center;
+    background-color: #4D8618;
+    -webkit-border-horizontal-spacing:2px ;
+}
+.content{
+    margin: 10px;
+}
